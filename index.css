@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+.hea{
+    position: relative;
+    top: 22px;
+    border-radius: 19px;
+    width: 92%;
+    left: 55px;
+    line-height: 36px;
+    background-color: #00000042;
+}
+.btn{
+
+    position: relative;
+    right: 35px;
+    top: 3px;
+    border: 2px solid;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: double;
+    width: 80px;
+    line-height: 23px;
+}
+.contaner {
+    border-radius: 81px;
+    width: 400px;
+    background-color: #ffffff69;
+    padding: 48px;
+    margin: 106px 58px;
+}
+.sub{
+
+    position: relative;
+    left: 237px;
+    top: 3px;
+    border: 2px solid;
+    border-radius: 8px;
+    background-color: #00000078;
+    color: white;
+    border: double;
+    width: 118px;
+    line-height: 23px;
+}
+.sub:hover{
+    color: bisque;
+}
+p{
+    font-size: 25px;
+    position: relative;
+    left: 2px;
+    font-weight: bolder;
+}
+.btn:hover{
+    color: bisque;
+    cursor: pointer;
+}
